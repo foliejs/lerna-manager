@@ -1,2 +1,2 @@
-# lerna-manager
+# lerna package manager 
 manage module system
